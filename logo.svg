@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="256pt"
-   height="256pt"
-   viewBox="0 0 90.311109 90.31111"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
    version="1.1"
    id="svg1772"
    inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
@@ -12,7 +12,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title322">Sunniesnow Logo</title>
   <sodipodi:namedview
      id="namedview1774"
      pagecolor="#ffffff"
@@ -22,16 +27,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      inkscape:lockguides="true"
      inkscape:zoom="2.0107307"
-     inkscape:cx="119.60826"
+     inkscape:cx="59.431131"
      inkscape:cy="182.52071"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
      inkscape:window-x="0"
-     inkscape:window-y="447"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -59,7 +64,7 @@
      id="layer1">
     <path
        sodipodi:type="star"
-       style="fill:#ffea00;stroke:none;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#ffea00;fill-opacity:1;stroke:none;stroke-width:0.264583"
        id="path2308"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -72,7 +77,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 48.251674,37.105434 24.46719,50.837412 0.68270542,37.105433 0.68270554,9.6414765 24.46719,-4.0905018 48.251674,9.6414767 Z"
-       transform="matrix(1.337973,0,0,1.337973,12.419116,13.882504)" />
+       transform="matrix(1.2331314,0,0,1.2331314,3.6954067,5.0441253)" />
     <path
        sodipodi:type="star"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264602;stroke-dasharray:none"
@@ -88,7 +93,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 48.251674,37.105434 24.46719,50.837412 0.68270542,37.105433 0.68270554,9.6414765 24.46719,-4.0905018 48.251674,9.6414767 Z"
-       transform="matrix(1.121179,0,0,1.121179,17.723456,18.949729)" />
+       transform="matrix(1.033325,0,0,1.033325,8.5841062,9.7142899)" />
     <path
        sodipodi:type="star"
        style="fill:#ffea00;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -104,33 +109,33 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 48.251674,37.105434 24.46719,50.837412 0.68270542,37.105433 0.68270554,9.6414765 24.46719,-4.0905018 48.251674,9.6414767 Z"
-       transform="matrix(0.89694328,0,0,0.89694328,23.209874,24.190892)" />
+       transform="matrix(0.8266601,0,0,0.8266601,13.640616,14.544763)" />
     <rect
-       style="fill:#ffea00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.246866;stroke-dasharray:none"
+       style="fill:#ffea00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.227522;stroke-dasharray:none"
        id="rect4739"
-       width="4.9311728"
-       height="64"
-       x="42.689968"
-       y="13.155556" />
+       width="4.5447731"
+       height="58.985054"
+       x="31.594278"
+       y="4.3741398" />
     <rect
-       style="fill:#ffea00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.246866;stroke-dasharray:none"
+       style="fill:#ffea00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.227522;stroke-dasharray:none"
        id="rect4739-5"
-       width="4.9311728"
-       height="64"
-       x="59.218048"
-       y="-48.52808"
+       width="4.5447731"
+       height="58.985054"
+       x="43.990337"
+       y="-41.888588"
        transform="rotate(60)" />
     <rect
-       style="fill:#ffea00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.246866;stroke-dasharray:none"
+       style="fill:#ffea00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.227522;stroke-dasharray:none"
        id="rect4739-3"
-       width="4.9311728"
-       height="64"
-       x="14.062494"
-       y="-93.683632"
+       width="4.5447731"
+       height="58.985054"
+       x="10.123672"
+       y="-75.755241"
        transform="rotate(120)" />
     <path
        sodipodi:type="star"
-       style="fill:#ff6033;stroke:none;stroke-width:0.264583;fill-opacity:1"
+       style="fill:#ff6033;fill-opacity:1;stroke:none;stroke-width:0.264583"
        id="path2308-3"
        inkscape:flatsided="true"
        sodipodi:sides="6"
@@ -143,6 +148,32 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 48.251674,37.105434 24.46719,50.837412 0.68270542,37.105433 0.68270554,9.6414765 24.46719,-4.0905018 48.251674,9.6414767 Z"
-       transform="matrix(0.6689865,0,0,0.6689865,28.787336,29.519031)" />
+       transform="matrix(0.61656568,0,0,0.61656568,18.781036,19.455396)" />
   </g>
+  <metadata
+     id="metadata320">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Sunniesnow Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>UlyssesZhan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:source>https://github.com/sunniesnow/logo</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
